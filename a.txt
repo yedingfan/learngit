@@ -2,4 +2,3 @@ Git is a free software
 add a Line
 add a bad Line
 add before stage
-add after stage
